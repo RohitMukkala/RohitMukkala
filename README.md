@@ -78,7 +78,8 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.linkedin.com/in/rohitmukkala/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' border='0' alt='Connect with me on LinkedIn' /></a>
+<p style="font-size:18px; font-weight:bold;">Let’s connect on LinkedIn and collaborate on exciting projects!</p>
 </div>
 
 <br/>
